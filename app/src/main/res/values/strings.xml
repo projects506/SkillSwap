@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkillSwap</string>
+    <string name="login">Login</string>
+    <string name="forgot_password_text">Forgot Password?</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint" padding="10dp">Email</string>
+    <string name="create_account">Create Account</string>
+</resources>
